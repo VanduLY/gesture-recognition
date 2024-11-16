@@ -1,0 +1,2 @@
+Install required libraries:
+pip install opencv-python mediapipe pyautogui
